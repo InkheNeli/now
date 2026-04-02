@@ -446,4 +446,5 @@ This project is licensed under the MIT License.
 **Terima kasih telah menggunakan AquaPOS! 🌊**
 #   n o w  
  #   n o w  
+ #   u s k  
  
